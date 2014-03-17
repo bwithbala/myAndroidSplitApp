@@ -25,7 +25,7 @@ sap.ui.jsview("view.App", {
 
         return new sap.m.Shell("Shell", {
             title: "",
-            showLogout: false,
+            showLogout: true,
             app: this.app,
             homeIcon: {
                 'phone': 'img/57_iPhone_Desktop_Launch.png',
