@@ -1,5 +1,6 @@
 {
-    "Menu": [{
+    "Menu": [
+    {
         "title": "Menu",
         "icon": "sap-icon://list",
         "targetPage": "CoffeeList",
