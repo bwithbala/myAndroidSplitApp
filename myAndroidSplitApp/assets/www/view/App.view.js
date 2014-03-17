@@ -15,6 +15,7 @@ sap.ui.jsview("view.App", {
 
         this.app.addDetailPage(sap.ui.xmlview("Info", "view.Info"));
         this.app.addDetailPage(sap.ui.jsview("CoffeeList", "view.CoffeeList"));
+        this.app.addDetailPage(sap.ui.jsview("snakeGame", "view.snakeGame"));
 
         // navigate to the first page in both master and detail areas.
         // the toMaster must be called after calling the toDetail, because both of them point to the same reference in phone and 

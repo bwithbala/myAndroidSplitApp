@@ -27,7 +27,7 @@ sap.ui.jsview("view.Menu", {
         return new sap.m.Page({
             customHeader: new sap.m.Bar({
                 contentLeft: [new sap.m.Image("ui5Logo", {
-                    src: "img/57_iPhone_Desktop_Launch.png",
+                    src: "img/IMG_0756.jpg",
                     width: "35px",
                     height: "35px"
                 })],
@@ -38,8 +38,8 @@ sap.ui.jsview("view.Menu", {
             content: [oList],
             footer: new sap.m.Bar({
                 contentMiddle: [new sap.m.Link("myproLink", {
-                    text: "v0.6.0",
-                    href: "http://blog.mypro.de/tag/ui5boilerplate/"
+                    text: "v0.0.1"
+               //     href: "http://blog.mypro.de/tag/ui5boilerplate/"
                 })]
             })
         });

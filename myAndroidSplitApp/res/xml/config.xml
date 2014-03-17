@@ -40,8 +40,7 @@ Hello Cordova
     <access origin="http://www.maalaimalar.com/RSS/SectionRss.aspx" />
     <access origin="http://feeds.reuters.com/reuters/oddlyEnoughNews" />
     <access origin="http://feeds.bbc.co.uk/iplayer/highlights/tv/list" />
-	<access origin="http://rss.cnn.com/rss/edition.rss" />
-
+    <access origin="http://rss.cnn.com/rss/edition.rss" />
 
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
     <content src="index.html" />
